@@ -22,7 +22,7 @@ A full-stack todo application built with MongoDB, Express.js, React, and Node.js
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/nihalmn028/todo_app.git
+git clone https://github.com/nihalmn028/todoApp.git
 
 cd mern-todo-app
 
